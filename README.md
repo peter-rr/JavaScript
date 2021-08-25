@@ -1,4 +1,4 @@
-# HYF-Module-Javascript
+# HYF-Module-JavaScript
 Javascript homework and projects from HackYourFuture program:
 
 * Week 1: https://github.com/HackYourFuture/JavaScript/blob/main/Week1/MAKEME.md
