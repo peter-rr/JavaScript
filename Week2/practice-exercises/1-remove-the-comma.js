@@ -7,7 +7,16 @@
 
 let myString = 'hello,this,is,a,difficult,to,read,sentence';
 
+// OPTION 1
+myString = myString.split(',').join(' ');
+console.log(myString);
 
+// OPTION 2
+/*
+let re = /,/gi;
+let newString = myString.replace(re, " ");
+myString = newString;
+*/
 
 /* --- Code that will test your solution, do NOT change. Write above this line --- */
 

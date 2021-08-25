@@ -10,3 +10,13 @@
  *   Hola, mundo! // Spanish
  */
 
+console.log("Hello world!"); // English
+console.log("Halo dunia!"); // Indonesian
+console.log("Hola mundo!"); // Spanish
+console.log("Ciao mondo!"); // Italian
+console.log("Olá mundo!"); // Portuguese
+console.log("Hola món!");  // Catalan
+console.log("Bonjour le monde!"); // French
+console.log("Kaixo Mundua!"); // Euskera
+console.log("Hallo Welt!"); // German
+console.log("Pozdav svijete!"); // Croatian
